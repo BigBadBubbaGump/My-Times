@@ -1,0 +1,79 @@
+* {
+  margin: 0px;
+}
+
+
+a {
+  font-family: verdana;
+  font-weight: bold;
+  font-size: 14px;
+  color: black;
+
+}
+
+nav {
+  display: block;
+  margin: auto;
+  position: fixed;
+  text-align: right;
+  z-index: 15;
+  width: 100%;
+  top: 20px;
+
+
+
+}
+
+ul {
+  display: inline-block;
+
+  list-style: none;
+
+}
+
+li {
+  display: inline-block;
+  width: 80px;
+  text-align: center;
+}
+
+#masthead {
+  width: 100%;
+  position: fixed;
+  z-index: 10;
+  padding-bottom: 5px;
+  border-bottom: 1px solid black;
+
+}
+
+span {
+
+
+}
+
+img {
+  display: block;
+  height: 60px;
+  width: 70px;
+  margin: auto 12px;
+
+
+}
+ .wordmark  {
+  font-family: verdana;
+  font-weight: bolder;
+  font-size: 14px;
+  display: block;
+  position: fixed;
+  width: 100px;
+  top: 20px;
+  left: 95px;
+
+
+
+
+}
+
+.aqua-text {
+  color: mediumaquamarine;
+}
